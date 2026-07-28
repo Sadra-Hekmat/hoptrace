@@ -1,0 +1,172 @@
+{
+  "project": "Packet Odyssey CLI",
+  "version": "0.1.0",
+  "runtime_dependencies": 0,
+  "files": [
+    {
+      "path": ".dockerignore",
+      "size_bytes": 45,
+      "sha256": "a0d1369310e47b8056c8edbc0c8e7672e41ff449bf118afb0c2279ba6309a1b1"
+    },
+    {
+      "path": ".github/workflows/ci.yml",
+      "size_bytes": 498,
+      "sha256": "d02a6839a604503b3d1b5f535ab4635e2966ab7787c83b29c0e8599e8cb79aa8"
+    },
+    {
+      "path": ".gitignore",
+      "size_bytes": 70,
+      "sha256": "46a6da9be22de1d582a5264982c3b8412a6c4b841a04f7c29bc67d47f5a96b2b"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "size_bytes": 438,
+      "sha256": "39f055a3b6b5635af320fef084ed9518810bfe0446d77570c85e5daa39573520"
+    },
+    {
+      "path": "CLI_RELEASE_CHECKLIST.md",
+      "size_bytes": 786,
+      "sha256": "126ac5e3e96aa6b8496db1741181b88d721a5ca62732117d0c1588c03b8c2478"
+    },
+    {
+      "path": "Dockerfile",
+      "size_bytes": 186,
+      "sha256": "27206c34c5ff0a3f12e06513101af392cac73dba637079c4ecdeb1ff5d8b51fb"
+    },
+    {
+      "path": "LICENSE",
+      "size_bytes": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    },
+    {
+      "path": "Makefile",
+      "size_bytes": 467,
+      "sha256": "55c413bb996ab4192d9027cccf0870562f3f293b404c87829c31135e1f3a8f29"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 5217,
+      "sha256": "d7ebdc4a3daf36acd11e7dc60f445637e8f91e499adee61b3999b1909d2decc0"
+    },
+    {
+      "path": "build_backend.py",
+      "size_bytes": 5171,
+      "sha256": "a9926954dd462b07bab9a672fb6ec695b4d3b2f81e106790fb0687939f119e96"
+    },
+    {
+      "path": "dist/packet-odyssey.pyz",
+      "size_bytes": 54675,
+      "sha256": "f82ba985917730d2ed391955ad26b5cf1afafaf0718d9ed5e550493364991f42"
+    },
+    {
+      "path": "dist/packet_odyssey_cli-0.1.0-py3-none-any.whl",
+      "size_bytes": 18340,
+      "sha256": "f9cd43db05a842d8aa4b974407cc56fa2dcfed9fbdf6aed545f95b4a2d9303f5"
+    },
+    {
+      "path": "docs/architecture.md",
+      "size_bytes": 1453,
+      "sha256": "d32eee995a8a0a66e2775cd50f54bf0c3c7f4d7dc2139db29f0c8294be3026af"
+    },
+    {
+      "path": "docs/command-reference.md",
+      "size_bytes": 954,
+      "sha256": "6ecf47317b943412e890916027b3ab89fb6c386a1c580148a9425c6879cfd01f"
+    },
+    {
+      "path": "docs/development_report.md",
+      "size_bytes": 1093,
+      "sha256": "e8f9fc13f42ce2fbcfd53ce69fcf00f4dd8c070638bf37d49e4bff19c058feba"
+    },
+    {
+      "path": "docs/migration-from-full-project.md",
+      "size_bytes": 1209,
+      "sha256": "6b45753fdb2bb40b1ba50c1120a04e616fd29fa1bf0887008be61c1e243e4a17"
+    },
+    {
+      "path": "docs/validation-results.md",
+      "size_bytes": 1463,
+      "sha256": "8e396331b6e2e3df16991a01d7dcc2cbb96a20dfa79ad3c177c321aa4270dcf1"
+    },
+    {
+      "path": "install.sh",
+      "size_bytes": 582,
+      "sha256": "065c9ebeee6e9ffc82ca15ee96ce7c8c21f5115e8e90a2d00107cb9483922797"
+    },
+    {
+      "path": "packet-odyssey",
+      "size_bytes": 174,
+      "sha256": "87ca82a33ffc4833ad0baf061f136e59a3dbc773d65539afaaf5641a7af10c11"
+    },
+    {
+      "path": "pyproject.toml",
+      "size_bytes": 879,
+      "sha256": "047d19c14d3538afd477c60c9a4b911dcfdfff73bdcc017959e09c00a86ee8b4"
+    },
+    {
+      "path": "src/packet_odyssey/__init__.py",
+      "size_bytes": 49,
+      "sha256": "d66c6fecbc585bec699f79bdf7f47f1daa9f99c2527ba57c1e4827fa1ee6d91f"
+    },
+    {
+      "path": "src/packet_odyssey/__main__.py",
+      "size_bytes": 42,
+      "sha256": "0dd072ac4488f65bf8c5864ce7a52efa1498fe3fe980353e07f148507de7c735"
+    },
+    {
+      "path": "src/packet_odyssey/catalog.py",
+      "size_bytes": 18541,
+      "sha256": "825e5a79fe22420683c1ae4eb3de1830b3c771e08d2f94dbfbfebea53849af59"
+    },
+    {
+      "path": "src/packet_odyssey/cli.py",
+      "size_bytes": 13287,
+      "sha256": "17860e27fddce2d0d0e1fecf6148644b7756f088827ce9769d792ca6363b4742"
+    },
+    {
+      "path": "src/packet_odyssey/engine.py",
+      "size_bytes": 8520,
+      "sha256": "ab7280dc72fa94192e5f4f463474f6fe6bf9274cefb258da63e052efd76a3dc4"
+    },
+    {
+      "path": "src/packet_odyssey/history.py",
+      "size_bytes": 3328,
+      "sha256": "07655b6c061acfe852db82b992cd51eb38bb4ee3e4fc1b53a82f05f306f8e318"
+    },
+    {
+      "path": "src/packet_odyssey/models.py",
+      "size_bytes": 3509,
+      "sha256": "0009a91734767dd0d2e6479477a3f78729dc83ad96443e859ab92c78b985deed"
+    },
+    {
+      "path": "src/packet_odyssey/render.py",
+      "size_bytes": 5057,
+      "sha256": "03e9642be380c882413c627ac1a03d4741eadcbecdd66cf03668b94394d63890"
+    },
+    {
+      "path": "src/packet_odyssey/serialization.py",
+      "size_bytes": 875,
+      "sha256": "36a79e59a53dc9f39f1a10bab8c6fadd2fbc69af8fc9bc6f8d15691982cd2463"
+    },
+    {
+      "path": "tests/test_cli.py",
+      "size_bytes": 1428,
+      "sha256": "d8804bd76de424ddb28578267f45e4ad39f22e8fe29d80aae3f1a2ef5dc0fd70"
+    },
+    {
+      "path": "tests/test_engine.py",
+      "size_bytes": 2350,
+      "sha256": "1993be2de552ee2c71eb9b26de3e73acd1b65722e84e3ecf6da2168bd08a4517"
+    },
+    {
+      "path": "tests/test_history.py",
+      "size_bytes": 907,
+      "sha256": "cfe585e9327a85a1297fbff655cf0221db6b75004cf35bc533261f1bb8a04226"
+    },
+    {
+      "path": "uninstall.sh",
+      "size_bytes": 196,
+      "sha256": "73daf4000f426f89ab5df2dd9e8db8c1ec6dde2f3a76c100e79474d6e5ba6d51"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+# Packet Odyssey CLI Release Checklist
+
+- [x] Eight request stages implemented
+- [x] Twelve failure injections implemented
+- [x] Eight prepared scenarios implemented
+- [x] Blocking failures skip downstream stages
+- [x] Recoverable failures continue with warnings
+- [x] Guided output implemented
+- [x] Technical output implemented
+- [x] Compact output implemented
+- [x] JSON output and export implemented
+- [x] Step mode implemented
+- [x] Optional real-time playback implemented
+- [x] SQLite history implemented
+- [x] Stored run comparison implemented
+- [x] No third-party runtime dependencies
+- [x] Direct source launcher included
+- [x] Dependency-free installer included
+- [x] Offline wheel included
+- [x] Single-file zipapp included
+- [x] Unit tests pass
+- [x] Documentation complete
